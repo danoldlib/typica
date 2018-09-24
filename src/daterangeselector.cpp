@@ -321,8 +321,7 @@ quickSelector->removeItem(index);
 #line 82 "./daterangeselector.w"
 
 
-#if __APPLE__
 #include "moc_daterangeselector.cpp"
-#endif
+
 
 /*:702*/
